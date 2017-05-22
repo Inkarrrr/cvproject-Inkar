@@ -2,10 +2,10 @@
 
 | Title :                        |  Author :          |
 | ------------------------------ | ------------------ |
-|                                |  Bigaziyeva Ingkar |
+| Ball Tracking                  |  Bigaziyeva Ingkar |
 
 
-
+### Grading Policy:
 | Item          | Grade | Max Grade  |
 | ------------- | ----- | ---------- |
 | Code          | 0     | 7 points   |
