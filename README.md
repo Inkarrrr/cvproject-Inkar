@@ -14,16 +14,14 @@
 | Presentation  | 0     | 5 points   |
 
 
-### How to build and run project:
-
 
 ### Demo Project video:
-
+skoro
 
 ### Poster:
-
+https://github.com/Inkarrrr/cvproject-Inkar/blob/master/Poster.pdf
 
 ### Presentation:
-
+https://github.com/Inkarrrr/cvproject-Inkar/blob/master/Slide.pdf
 
 # Thank you!
